@@ -1,0 +1,2 @@
+Warning, invalid date detected in row: {'transaction_id': '1', 'date': '2020a-10-26', 'customer_id': '926', 'amount': '6478.39', 'type': 'credit', 'description': 'Expect series shake art again our.'}
+Warning, invalid amount detected in row: {'transaction_id': '3', 'date': datetime.date(2019, 9, 2), 'customer_id': '110', 'amount': '7969.68a', 'type': 'debit', 'description': 'Direction wife job pull determine leader move college.'}
