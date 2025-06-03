@@ -1,0 +1,8 @@
+Financial Summary
+Total Credits: $38,318.59
+Total Debits: $4,661.88
+Total Transfers: $0.00
+Net Balance: $42,980.47
+By Type:
+  Credit: $38,318.59
+  Debit: $4,661.88
