@@ -1,0 +1,55 @@
+
+Financial Summary:
+Total Credits: $37,062.64 (91.6%)
+Total Debits: $-3,405.93 (8.4%)
+Total Transfers: $0.00 (0.0%)
+Net Balance: $33,656.71
+
+By customer:
+
+Customer 466:
+  Total Credits: $0.00 (0.0%)
+  Total Debits: $1,255.95 (100.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 142:
+  Total Credits: $2,927.41 (100.0%)
+  Total Debits: $0.00 (0.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 944:
+  Total Credits: $0.00 (0.0%)
+  Total Debits: $-4,661.88 (100.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 900:
+  Total Credits: $3,649.68 (100.0%)
+  Total Debits: $0.00 (0.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 458:
+  Total Credits: $504.24 (100.0%)
+  Total Debits: $0.00 (0.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 573:
+  Total Credits: $8,088.01 (100.0%)
+  Total Debits: $0.00 (0.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 950:
+  Total Credits: $3,006.30 (100.0%)
+  Total Debits: $0.00 (0.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 10:
+  Total Credits: $9,999.00 (100.0%)
+  Total Debits: $0.00 (0.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer 11:
+  Total Credits: $8,888.00 (100.0%)
+  Total Debits: $0.00 (0.0%)
+  Total Transfers: $0.00 (0.0%)
+
+Customer with highest debit: 466 with $1,255.95
