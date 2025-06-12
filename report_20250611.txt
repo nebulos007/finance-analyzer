@@ -1,0 +1,11 @@
+Financial Summary (Generated on 2025-06-11 21:58:17)
+Period: From Apr 15, 2018 to Jun 11, 2025
+
+Total Credits: $64,031.41
+Total Debits: $-45,330.52
+Total Transfers: $15,068.80
+Net Balance: $33,769.69
+By Type:
+  Credit: $64,031.41
+  Debit: $-45,330.52
+  Transfer: $15,068.80
